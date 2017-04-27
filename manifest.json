@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,   
+    "name": "Remove Blogger Logo",
+    "description": "To remove blogger logo",
+    "version": "1.0",
+    "content_scripts": [
+        {
+            "matches": ["https://*.blogger.com/*"],
+            "js": ["remove.js"],
+            "run_at": "document_end",
+            "all_frames": true
+        }
+    ]
+}
