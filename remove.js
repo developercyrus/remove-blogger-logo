@@ -4,7 +4,8 @@ function remove() {
         //var element = document.querySelector("span.gb_0a.gb_Za");
     	//var element = document.querySelector("span.gb_Za.gb_Za");
         //var element = document.querySelector("span.gb_Xa.gb_Wa");
-    	var element = document.querySelector("span.gb_Za.gb_Xa");
+    	//var element = document.querySelector("span.gb_Za.gb_Xa");
+    	var element = document.querySelector("span.gb_Xa.gb_Xa");
         element.parentElement.removeChild(element);
     }
     catch(err) {
