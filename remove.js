@@ -8,9 +8,9 @@ function remove() {
     	//var element = document.querySelector("span.gb_Xa.gb_Xa");
     	//var element = document.querySelector("div.gb_zc.gb_Ud");
     	//var element = document.querySelector("div.gb_Cc.gb_Wd");
-    	var element = document.querySelector("div.gb_Ec gb_Zd");
     	
-    	
+    	var element = document.querySelector("div.gb_cc");
+    	    	    
         element.parentElement.removeChild(element);
     }
     catch(err) {
