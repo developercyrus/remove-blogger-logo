@@ -9,9 +9,9 @@ function remove() {
     	//var element = document.querySelector("div.gb_zc.gb_Ud");
     	//var element = document.querySelector("div.gb_Cc.gb_Wd");    	
     	//var element = document.querySelector("div.gb_cc");
+        //var element = document.querySelector("div.gb_Ac.gb_Ud");
+        var element = document.querySelector("div.gb_Bc gb_Xd");
         
-        var element = document.querySelector("div.gb_Ac.gb_Ud");
-    	    	    
         element.parentElement.removeChild(element);
     }
     catch(err) {
