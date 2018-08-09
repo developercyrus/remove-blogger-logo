@@ -4,5 +4,5 @@
 
 ## Published Version
 ```
-https://chrome.google.com/webstore/detail/remove-blogger-logo/mpeolgpljkgfmfjocfkabohgldacgiobs
+https://chrome.google.com/webstore/detail/remove-blogger-logo/mpeolgpljkgfmfjocfkabohgldacgiob
 ```
