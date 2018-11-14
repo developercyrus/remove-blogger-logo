@@ -2,8 +2,6 @@
     "manifest_version": 3,   
     "name": "Remove Blogger Logo",
     "version": "1.4",
-    
-    "default_locale": "en",
     "description": "To remove blogger logo",
     "icons":  { 
         "16": "icon16.png",
