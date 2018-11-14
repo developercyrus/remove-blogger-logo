@@ -1,5 +1,5 @@
 {
-    "manifest_version": 3,   
+    "manifest_version": 2,    
     "name": "Remove Blogger Logo",
     "version": "1.4",
     "description": "To remove blogger logo",
