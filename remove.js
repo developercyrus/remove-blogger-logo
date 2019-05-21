@@ -15,7 +15,8 @@ function remove() {
         //var element = document.querySelector("img.gb_Xa");            // version 1.3
         //var element = document.querySelector("img.gb_Za");            // version 1.5
         //var element = document.querySelector("img.gb_0a");            // version 1.6
-        var element = document.querySelector("img.gb_ma");              // version 1.8
+        //var element = document.querySelector("img.gb_ma");            // version 1.8
+    	var element = document.querySelector("img.gb_la");              // version 1.9
         
         element.parentElement.removeChild(element);
     }
