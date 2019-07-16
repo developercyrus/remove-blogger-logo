@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,    
     "name": "Remove Blogger Logo",
-    "version": "1.9",
+    "version": "1.10",
     "description": "To remove blogger logo",
     "icons":  { 
         "16": "icon16.png",
