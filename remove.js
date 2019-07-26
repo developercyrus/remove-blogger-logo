@@ -19,7 +19,8 @@ function remove() {
     	//var element = document.querySelector("img.gb_la");            // version 1.9
     	//var element = document.querySelector("img.gb_ma");            // version 1.10
     	//var element = document.querySelector("img.gb_ma");            // version 1.11
-    	var element = document.querySelector("img.gb_na");              // version 1.12
+    	//var element = document.querySelector("img.gb_na");            // version 1.12
+    	var element = document.querySelector('[src="/img/blogger-logotype-color-black-1x.png"]');            // version 1.13
         
         element.parentElement.removeChild(element);
     }
